@@ -1,0 +1,13 @@
+transformers=4.34.1
+torch=2.1.0
+accelerate=0.23.0
+sklearn=0.24.2
+setfit=0.7.0
+nlpaug=1.1.11
+sentence_transformers
+numpy=1.26.1
+pandas=2.1.1
+sentencepiece=0.1.99
+datasets=2.14.5
+huggingface_hub=0.18.0
+
